@@ -1,19 +1,19 @@
-# design_patter_lab1_web
+# Design Pattern Labs Frontend
 
-## Project setup
-```
-npm install
-```
+## Description
+This is a web project for the lab of design pattern course.
+The backend is [here](). 
+This web includes three simple examples for three design patterns (Strategy, Decorator, State).
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Features
+* Responsive layout
+* Material design
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Build Steps
+1. Make sure you have install [node.js](https://nodejs.org/en/) and [vue-cli](https://cli.vuejs.org/zh/) properly.
+2. Run `vue-cli-service build` in the source root.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+For those people don't like to build from source code,
+They can download this web from [packages]().
+
+
