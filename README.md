@@ -14,6 +14,6 @@ This web includes three simple examples for three design patterns (Strategy, Dec
 2. Run `vue-cli-service build` in the source root.
 
 For those people don't like to build from source code,
-They can download this web from [packages]().
+They can download this web from [releases](https://github.com/bblwbtd/design_pattern_labs_web/releases).
 
 
