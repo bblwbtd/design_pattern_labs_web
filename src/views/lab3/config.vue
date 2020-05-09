@@ -72,7 +72,7 @@
         }),
         methods: {
             confirm(){
-                new_elevator().then(result =>{
+                new_elevator(this.elevator_speed, this.door_speed, this.max_floor, this.door_idle_time).then(result =>{
                     this.$emit("confirm", this.max_floor)
                 })
             }
